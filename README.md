@@ -2,9 +2,8 @@
 技能图谱
 ===
 
-The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和发布，见：
 
-![QRCode](http://articles.phodal.com/qrcode.jpg)
+![QRCode](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3535380688&token=887941045&style=1)
 
 前端技能图谱
 ---
