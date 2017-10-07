@@ -3,7 +3,7 @@
 ===
 
 
-![QRCode](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3535380688&token=887941045&style=1)
+![QRCode](http://hacker.huidge.top/test/favicon.ico)
 
 前端技能图谱
 ---
